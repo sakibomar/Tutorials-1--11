@@ -14,4 +14,4 @@ To download all tutorial files (1 to 11) from this repository, follow these step
    - Extract (unzip) the contents to access all the tutorial files.
 
 3. **Start Exploring**:  
-   - Open the extracted folder to view the tutorial files, numbered from 1 to 11..
+   - Open the extracted folder to view the tutorial files, numbered from 1 to 11.
